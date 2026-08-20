@@ -1,2 +1,2 @@
 streamlit>=1.40,<2
-pypdf>=5.0,<7
+pypdf[crypto]>=5.0,<7
